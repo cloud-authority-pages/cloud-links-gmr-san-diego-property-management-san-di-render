@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: cloud-links-gmr-san-diego-property-management-san-di
+    env: static
+    staticPublishPath: .
+    buildCommand: ""
+    pullRequestPreviewsEnabled: false
